@@ -1,0 +1,21 @@
+WEB: Historia del Internet - Versión futurista
+
+Archivos incluidos:
+- index.html
+- historia.html
+- evolucion.html
+- actualidad.html
+- futuro.html
+- impacto.html
+- fuentes.html
+- styles.css
+
+Cómo usar:
+1. Descomprime la carpeta.
+2. Abre index.html en Dreamweaver.
+3. También puedes subir todos los archivos sueltos a GitHub Pages.
+4. No subas el .zip directamente para publicar la web.
+
+Importante:
+- index.html debe conservar ese nombre.
+- styles.css debe estar en la misma carpeta que las páginas HTML.
