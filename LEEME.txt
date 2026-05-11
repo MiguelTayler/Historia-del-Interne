@@ -1,4 +1,4 @@
-WEB: Historia del Internet - Versión futurista
+WEB: Historia del Internet - Pedrito
 
 Archivos incluidos:
 - index.html
